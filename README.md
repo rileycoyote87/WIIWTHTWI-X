@@ -1,4 +1,8 @@
-# CS_SocketAnnouncer
+# WIIWTHTWI:X - CS_SocketAnnouncer
+LICENSE USE
+
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) https://creativecommons.org/licenses/by-nc/4.0/
+
 archive of code for 
 WIIWTHTWI : X (2018)
 in collaboration with Evan Blackstone
